@@ -19,7 +19,7 @@
 - [YouTube](https://www.googleapis.com/youtube/v3)
 
 Arquitetura
-![arquitetura](Doc/arqui.png)
+![arquitetura](Doc/doc.png)
 
 APP Utilizado foi o Node
 Utiliza o Axio como ponte entre o APP e back
